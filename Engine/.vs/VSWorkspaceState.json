@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Engine"
+    "\\Engine",
+    "\\Engine\\Framework"
   ],
-  "SelectedNode": "\\Engine\\Engine.cpp",
+  "SelectedNode": "\\Engine\\Framework\\Interface",
   "PreviewInSolutionExplorer": false
 }
