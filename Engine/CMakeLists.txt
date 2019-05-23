@@ -1,9 +1,12 @@
-﻿# CMakeList.txt: 顶层 CMake 项目文件，在此处执行全局配置
-# 并包含子项目。
-#
+﻿
 cmake_minimum_required (VERSION 3.8)
 
-project ("Engine")
+set (CMAKE_C_STANDARD 11)
+set (CMAKE_CXX_STANDARD 11)
 
-# 包含子项目。
-add_subdirectory ("Engine")
+project (Engine)
+include_directories("${PROJECT_SOURCE_DIR}/Framework/Common")
+include_directories("${PROJECT_SOURCE_DIR}/Framework/Interface")
+
+add_subdirectory(Framework)
+add_subdirectory(Empty)

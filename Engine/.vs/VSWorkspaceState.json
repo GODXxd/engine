@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Engine",
-    "\\Engine\\Framework"
+    "\\Empty",
+    "\\Framework",
+    "\\Framework\\Common",
+    "\\Framework\\Interface"
   ],
-  "SelectedNode": "\\Engine\\Framework\\Interface",
+  "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
