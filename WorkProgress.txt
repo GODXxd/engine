@@ -1,0 +1,5 @@
+v0.1:
+1.搭建一个基础框架，具体文件结构参照WorkTree.txt
+2.EmptyApplication代表平台，不同平台使用IApplication来控制
+3.入口函数统一为main
+4.BaseApplication为平台共通的一些内容
