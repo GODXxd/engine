@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Engine",
-    "\\Engine\\Framework",
     "\\Engine\\Framework\\Common",
-    "\\Engine\\Framework\\Interface"
+    "\\Engine\\Framework\\Interface",
+    "\\Engine\\Platform",
+    "\\Engine\\Platform\\Windows"
   ],
-  "SelectedNode": "\\Engine\\Framework\\Common\\GraphicsManager.hpp",
+  "SelectedNode": "\\Engine\\Platform\\Windows\\helloengine_win.cpp",
   "PreviewInSolutionExplorer": false
 }
