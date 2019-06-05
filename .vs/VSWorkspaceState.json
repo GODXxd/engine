@@ -2,11 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Engine",
+    "\\Engine\\Framework",
     "\\Engine\\Framework\\Common",
     "\\Engine\\Framework\\Interface",
     "\\Engine\\Platform",
-    "\\Engine\\Platform\\Windows"
+    "\\Engine\\Platform\\Windows",
+    "\\Engine\\Platform\\Windows\\WindowsPlatform",
+    "\\Engine\\Platform\\Windows\\WindowsPlatform\\WindowsPlatform"
   ],
-  "SelectedNode": "\\Engine\\Platform\\Windows\\helloengine_win.cpp",
+  "SelectedNode": "\\Engine\\Platform\\Windows\\WindowsPlatform\\WindowsPlatform\\WindowsPlatform.cpp",
   "PreviewInSolutionExplorer": false
 }
