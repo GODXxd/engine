@@ -2,11 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Engine",
-    "\\Engine\\Framework\\Common",
-    "\\Engine\\Framework\\Interface",
     "\\Engine\\Platform",
     "\\Engine\\Platform\\Windows"
   ],
-  "SelectedNode": "\\Engine\\Platform\\Windows\\HelloEngine_Win.cpp",
+  "SelectedNode": "\\Engine\\Platform\\Windows\\HelloEngine_D2D.cpp",
   "PreviewInSolutionExplorer": false
 }
